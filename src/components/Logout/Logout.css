@@ -1,0 +1,17 @@
+.Logout{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 300px;
+}
+.out{
+    text-align: center;
+}
+.Logout h1{
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.Logout p{
+    font-size: 16px;
+    color: #888;
+}
